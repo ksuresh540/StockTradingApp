@@ -1,0 +1,229 @@
+﻿++Solution 'StockTradingExchange' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:StockTradingExchange.sln
+++Tests
+i:{00000000-0000-0000-0000-000000000000}:Tests
+++StockTradingExchange.API
+i:{00000000-0000-0000-0000-000000000000}:StockTradingExchange.API
+++Connected Services 
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:>464
+++Dependencies
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:>463
+i:{41137655-3d03-4452-92cd-6e180873a77b}:>367
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:>268
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:>366
+++Properties
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\properties\
+++Configuration
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\configuration\
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\
+++ExchangeAPI
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\exchangeapi\
+++logs
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\logs\
+++appsettings.Development.json
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\appsettings.development.json
+++appsettings.json
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\appsettings.json
+++appsettings.Production.json
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\appsettings.production.json
+++hosting.Development.json
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\hosting.development.json
+++hosting.json
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\hosting.json
+++hosting.Production.json
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\hosting.production.json
+++Program.cs
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\program.cs
+++Startup.cs
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\startup.cs
+++No service dependencies discovered
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:>465
+++Analyzers
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:analyzers
+i:{41137655-3d03-4452-92cd-6e180873a77b}:analyzers
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:analyzers
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:analyzers
+++Frameworks
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:frameworks
+i:{41137655-3d03-4452-92cd-6e180873a77b}:frameworks
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:frameworks
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:frameworks
+++Packages
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:packages
+i:{41137655-3d03-4452-92cd-6e180873a77b}:packages
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:packages
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:packages
+++Projects
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:projects
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:projects
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:projects
+++launchSettings.json
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\properties\launchsettings.json
+++CorrelationMiddleware.cs
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\configuration\correlationmiddleware.cs
+++ExecutionContextAccessor.cs
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\configuration\executioncontextaccessor.cs
+++SwaggerExtensions.cs
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\configuration\swaggerextensions.cs
+++BuyStockController.cs
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\exchangeapi\buystockcontroller.cs
+++SellStockController.cs
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\exchangeapi\sellstockcontroller.cs
+++logs-20211226
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\logs\logs-20211226
+++Microsoft.AspNetCore.Analyzers
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.13\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.13\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchangeapi\microsoft.netcore.app
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\microsoft.netcore.app
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\microsoft.netcore.app
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\microsoft.netcore.app
+++Dapper (2.0.123)
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:>478
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:>493
+++FluentValidation (10.3.6)
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:>480
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:>494
+++MediatR (9.0.0)
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:>479
+i:{41137655-3d03-4452-92cd-6e180873a77b}:>511
+++Serilog (2.10.0)
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:>483
+++Serilog.Formatting.Compact (1.1.0)
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:>481
+++Serilog.Sinks.Console (4.0.1)
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:>482
+++Serilog.Sinks.RollingFile (3.3.0)
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:>477
+++Swashbuckle.AspNetCore (5.6.3)
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:>476
+++StockTradingExchange.Application
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\bin\debug\net5.0\stocktradingexchange.application.dll
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\bin\debug\net5.0\stocktradingexchange.application.dll
+i:{00000000-0000-0000-0000-000000000000}:StockTradingExchange.Application
+++StockTradingExchange.Infrastructure
+i:{0f5be25c-3c48-47e1-a66b-4e3789853a7b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\bin\debug\net5.0\stocktradingexchange.infrastructure.dll
+i:{00000000-0000-0000-0000-000000000000}:StockTradingExchange.Infrastructure
+++StockTradingExchange.Domain
+i:{00000000-0000-0000-0000-000000000000}:StockTradingExchange.Domain
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\bin\debug\net5.0\stocktradingexchange.domain.dll
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\bin\debug\net5.0\stocktradingexchange.domain.dll
+++Rules
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\rules\
+++StockTypeValid.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\rules\stocktypevalid.cs
+++SeedWork
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\seedwork\
+++BusinessRuleValidationException.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\seedwork\businessrulevalidationexception.cs
+++DomainEventBase.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\seedwork\domaineventbase.cs
+++Entity.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\seedwork\entity.cs
+++IAggregateRoot.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\seedwork\iaggregateroot.cs
+++IBusinessRule.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\seedwork\ibusinessrule.cs
+++IDomainEvent.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\seedwork\idomainevent.cs
+++IgnoreMemberAttribute.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\seedwork\ignorememberattribute.cs
+++IUnitOfWork.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\seedwork\iunitofwork.cs
+++ValueObject.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\seedwork\valueobject.cs
+++StockTrading
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\stocktrading\
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\domain\stocktrading\
+++IStockTradingExchangeRepository.cs
+++BuyStock.cs
+++Database
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\database\
+++DataAccessModule.cs
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\database\dataaccessmodule.cs
+++SchemaNames.cs
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\database\schemanames.cs
+++SqlConnectionFactory.cs
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\database\sqlconnectionfactory.cs
+++StockTradingContext.cs
+++Domain
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\domain\
+++StockTradingEntityTypeConfiguration.cs
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\domain\stocktrading\stocktradingentitytypeconfiguration.cs
+++StockTradingRepository.cs
+++UnitOfWork.cs
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\domain\unitofwork.cs
+++Autofac (5.2.0)
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:>560
+++Microsoft.EntityFrameworkCore (5.0.13)
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:>558
+++System.Data.SqlClient (4.8.3)
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:>564
+++Stocks
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\stocks\
+++Commands
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\commands\
+++Data
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\data\
+++Queries
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\queries\
+++Validation
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\validation\
+++IExecutionContextAccessor.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\iexecutioncontextaccessor.cs
+++BuyStocks
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\stocks\buystocks\
+++CommandBase.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\commands\commandbase.cs
+++ICommand.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\commands\icommand.cs
+++ICommandHandler.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\commands\icommandhandler.cs
+++InternalCommandBase.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\commands\internalcommandbase.cs
+++ISqlConnectionFactory.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\data\isqlconnectionfactory.cs
+++IQuery.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\queries\iquery.cs
+++IQueryHandler.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\queries\iqueryhandler.cs
+++CommandValidationBehavior.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\validation\commandvalidationbehavior.cs
+++InvalidCommandException.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\configuration\validation\invalidcommandexception.cs
+++BuyStockCommand.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\stocks\buystocks\buystockcommand.cs
+++BuyStockCommandHandler.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\stocks\buystocks\buystockcommandhandler.cs
+++BuyStockRequest.cs
+i:{c27e4353-a33a-455c-8c4b-1c316ff0da27}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.application\stocks\buystocks\buystockrequest.cs
+++StockTradingExchangeRepository.cs
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\domain\stocktrading\stocktradingexchangerepository.cs
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.13)
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:>567
+++StockTradingExchangeContext.cs
+++CustomerTrading.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\customertrading.cs
+++ICustomerTradingRepository.cs
+i:{41137655-3d03-4452-92cd-6e180873a77b}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.domain\stocktrading\icustomertradingrepository.cs
+++CustomerTradingContext.cs
+i:{23197b6e-9dc0-4122-a6a6-1cc1070b39cf}:c:\users\sures\source\repos\stocktradingexchange\stocktradingexchange.infrastructure\database\customertradingcontext.cs

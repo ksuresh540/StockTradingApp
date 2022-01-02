@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRzZWWuVhRev37xlK6+oHU2fbeZXEy+vu1U4TfwtdNhVdOqxjRw4WmGhAftEgvLCTADcUGvuy8LPv/HW3XYnKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sures\\source\\repos\\StockTradingExchange\\StockTradingExchange.Domain\\StockTradingExchange.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sures\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

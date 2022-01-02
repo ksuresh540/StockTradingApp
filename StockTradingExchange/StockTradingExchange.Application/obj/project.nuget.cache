@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMVxpQGxe8HeSFvx8aanVBKI95S0d6lqnGuzZPQ4ENVJKpilQnJre2ZXnTVAdOORLiNiBMplfgyFuGqX7DQl7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sures\\source\\repos\\StockTradingExchange\\StockTradingExchange.Application\\StockTradingExchange.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sures\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\sures\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\sures\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

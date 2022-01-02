@@ -1,0 +1,11 @@
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Domain\bin\Debug\net5.0\StockTradingExchange.Domain.deps.json
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Domain\bin\Debug\net5.0\StockTradingExchange.Domain.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Domain\bin\Debug\net5.0\ref\StockTradingExchange.Domain.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Domain\bin\Debug\net5.0\StockTradingExchange.Domain.pdb
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Domain\obj\Debug\net5.0\StockTradingExchange.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Domain\obj\Debug\net5.0\StockTradingExchange.Domain.AssemblyInfoInputs.cache
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Domain\obj\Debug\net5.0\StockTradingExchange.Domain.AssemblyInfo.cs
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Domain\obj\Debug\net5.0\StockTradingExchange.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Domain\obj\Debug\net5.0\StockTradingExchange.Domain.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Domain\obj\Debug\net5.0\ref\StockTradingExchange.Domain.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Domain\obj\Debug\net5.0\StockTradingExchange.Domain.pdb

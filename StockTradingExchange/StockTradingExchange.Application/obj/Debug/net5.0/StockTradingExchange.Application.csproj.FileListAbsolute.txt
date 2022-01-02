@@ -1,0 +1,15 @@
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\obj\Debug\net5.0\StockTradingExchange.Application.csproj.AssemblyReference.cache
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\obj\Debug\net5.0\StockTradingExchange.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\obj\Debug\net5.0\StockTradingExchange.Application.AssemblyInfoInputs.cache
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\obj\Debug\net5.0\StockTradingExchange.Application.AssemblyInfo.cs
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\obj\Debug\net5.0\StockTradingExchange.Application.csproj.CoreCompileInputs.cache
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\bin\Debug\net5.0\StockTradingExchange.Application.deps.json
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\bin\Debug\net5.0\StockTradingExchange.Application.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\bin\Debug\net5.0\ref\StockTradingExchange.Application.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\bin\Debug\net5.0\StockTradingExchange.Application.pdb
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\bin\Debug\net5.0\StockTradingExchange.Domain.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\bin\Debug\net5.0\StockTradingExchange.Domain.pdb
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\obj\Debug\net5.0\StockTradingExchange.Application.csproj.CopyComplete
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\obj\Debug\net5.0\StockTradingExchange.Application.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\obj\Debug\net5.0\ref\StockTradingExchange.Application.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Application\obj\Debug\net5.0\StockTradingExchange.Application.pdb

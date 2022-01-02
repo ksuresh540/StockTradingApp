@@ -1,0 +1,17 @@
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\obj\Debug\net5.0\StockTradingExchange.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\obj\Debug\net5.0\StockTradingExchange.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\obj\Debug\net5.0\StockTradingExchange.Infrastructure.AssemblyInfo.cs
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\obj\Debug\net5.0\StockTradingExchange.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\bin\Debug\net5.0\StockTradingExchange.Infrastructure.deps.json
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\bin\Debug\net5.0\StockTradingExchange.Infrastructure.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\bin\Debug\net5.0\ref\StockTradingExchange.Infrastructure.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\bin\Debug\net5.0\StockTradingExchange.Infrastructure.pdb
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\bin\Debug\net5.0\StockTradingExchange.Application.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\bin\Debug\net5.0\StockTradingExchange.Domain.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\bin\Debug\net5.0\StockTradingExchange.Application.pdb
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\bin\Debug\net5.0\StockTradingExchange.Domain.pdb
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\obj\Debug\net5.0\StockTradingExchange.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\obj\Debug\net5.0\StockTradingExchange.Infrastructure.csproj.CopyComplete
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\obj\Debug\net5.0\StockTradingExchange.Infrastructure.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\obj\Debug\net5.0\ref\StockTradingExchange.Infrastructure.dll
+C:\Users\sures\source\repos\StockTradingExchange\StockTradingExchange.Infrastructure\obj\Debug\net5.0\StockTradingExchange.Infrastructure.pdb

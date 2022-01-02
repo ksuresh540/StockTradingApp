@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b3dfce6-c2ea-47f0-bcb7-f2c9132694fc": {
+      "ProjectGuid": "5b3dfce6-c2ea-47f0-bcb7-f2c9132694fc",
+      "DisplayName": "StockTradingExchangeAPI",
+      "ColorIndex": 0
+    },
+    "0f5be25c-3c48-47e1-a66b-4e3789853a7b": {
+      "ProjectGuid": "0f5be25c-3c48-47e1-a66b-4e3789853a7b",
+      "DisplayName": "StockTradingExchange.API",
+      "ColorIndex": 1
+    },
+    "c27e4353-a33a-455c-8c4b-1c316ff0da27": {
+      "ProjectGuid": "c27e4353-a33a-455c-8c4b-1c316ff0da27",
+      "DisplayName": "StockTradingExchange.Application",
+      "ColorIndex": 2
+    },
+    "41137655-3d03-4452-92cd-6e180873a77b": {
+      "ProjectGuid": "41137655-3d03-4452-92cd-6e180873a77b",
+      "DisplayName": "StockTradingExchange.Domain",
+      "ColorIndex": 3
+    },
+    "23197b6e-9dc0-4122-a6a6-1cc1070b39cf": {
+      "ProjectGuid": "23197b6e-9dc0-4122-a6a6-1cc1070b39cf",
+      "DisplayName": "StockTradingExchange.Infrastructure",
+      "ColorIndex": 4
+    },
+    "2184b214-8b76-4740-9b14-890e43b698f6": {
+      "ProjectGuid": "2184b214-8b76-4740-9b14-890e43b698f6",
+      "DisplayName": "StockTradingExchange.IntegrationTests",
+      "ColorIndex": 5
+    },
+    "7fe4d349-135a-47a9-a7a8-b9bb79e3449d": {
+      "ProjectGuid": "7fe4d349-135a-47a9-a7a8-b9bb79e3449d",
+      "DisplayName": "StockTradingExchange.UnitTests",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 7
+}
